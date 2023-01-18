@@ -1,19 +1,28 @@
-# vue-routing
+### This project aims to create multiple pages with React Router.
 
-## Project setup
-```
-yarn install
-```
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+🎯 [click here to see page](https://vuejsrouting.netlify.app/)
+### In this project, I learned;
 
-### Compiles and minifies for production
-```
-yarn build
-```
+In this project, I learned;
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+✨ Vuejs
+
+✨ Props
+
+✨ Components
+
+✨ Vuejs Routing
+
+✨ Sending Params By Routes
+
+
+### In this project, I learned;
+
+🎯 improve coding skills within Vuejs, Vuejs Router and Javascript
+
+🎯 use git commands (push, pull, commit, add etc.) and Github as Version Control System.
+
+
+
+
